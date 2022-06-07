@@ -2,6 +2,6 @@
 
 int main() 
 {
-	ConnectivityByFastUnionWeightedMethodWithCompressionOfPathByDividingInHalf();
+	ConnectivityByFastUnionMethod();
 	return 0;
 }
